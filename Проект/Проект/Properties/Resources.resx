@@ -124,10 +124,13 @@
   <data name="Ca29a8jXEAA7XRK" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ca29a8jXEAA7XRK.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="51fcXmG6g9L1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\51fcXmG6g9L1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="51fcXmG6g9L" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\51fcXmG6g9L.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="51fcXmG6g9L1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\51fcXmG6g9L1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="pexels-photo-15011196" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pexels-photo-15011196.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

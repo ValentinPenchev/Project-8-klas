@@ -39,11 +39,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Проект\\Проект\\Проект.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Project-8-klas\\Проект\\Проект\\Проект.csproj",
       "projectName": "Проект",
-      "projectPath": "C:\\Users\\User\\Desktop\\Проект\\Проект\\Проект.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Project-8-klas\\Проект\\Проект\\Проект.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Проект\\Проект\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Project-8-klas\\Проект\\Проект\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -30,5 +30,11 @@ namespace Проект
             label1.Text = "2.50";
             label1.Visible = true;
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            label1.Text = "test";
+            label1.Visible = true;
+        }
     }
 }
